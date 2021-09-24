@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438414772662",
+    "project_id": "atvin-b705a",
+    "storage_bucket": "atvin-b705a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438414772662:android:b377aa9e0c06c261699917",
+        "android_client_info": {
+          "package_name": "com.atvinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438414772662-ribjk4fpojb6dm13n56bg8r19k9u1peh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG1i22pass1QxakSfpEkYrUVE-a4qGH-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438414772662-ribjk4fpojb6dm13n56bg8r19k9u1peh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
